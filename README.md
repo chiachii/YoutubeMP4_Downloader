@@ -1,5 +1,5 @@
 # YoutubeMP4_Downloader
-This project is a web crawler program that can package live or non-live audio and video on the Youtube platform into `mp4` files and send them locally.<br>
+This project is a web crawler program that can package live or non-live videos on the Youtube platform into `mp4` files and store them locally.<br>
 
 The default location is `D:\\Users\\Desktop\\Videos`. <br>
 If you need to modify the location, just enter it after executing the program.
